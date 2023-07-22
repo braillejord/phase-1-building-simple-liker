@@ -3,7 +3,8 @@ body {
   background-color: rgb(29,161,242);
 }
 
-.like-glyph {
+.like-glyph,
+.activated-heart {
   cursor: pointer;
 }
 
